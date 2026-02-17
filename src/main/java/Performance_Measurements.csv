@@ -1,0 +1,25 @@
+Data file,Normalization,Initialization,Initial SSE,Final SSE,Number of iterations
+ecoli.txt,min-max,Random Selection,28.451777812745412,17.427482037542955,15
+ecoli.txt,min-max,Random Partition,53.51215131529335,17.40562659100632,26
+glass.txt,min-max,Random Selection,26.2188130589853,18.34215153424281,19
+glass.txt,min-max,Random Partition,41.79810433058676,18.244872709232986,11
+ionosphere.txt,min-max,Random Selection,660.6789396378755,628.8960236346244,5
+ionosphere.txt,min-max,Random Partition,780.8252227547222,628.8960236346244,4
+iris_bezdek.txt,min-max,Random Selection,9.153619815772393,6.982216473785234,7
+iris_bezdek.txt,min-max,Random Partition,23.760464336332916,6.982216473785234,6
+landsat.txt,min-max,Random Selection,2742.984913551511,1741.5979326821,41
+landsat.txt,min-max,Random Partition,7706.297368887916,1741.5979326821,39
+letter_recognition.txt,min-max,Random Selection,4245.253333333356,2724.0797276856583,82
+letter_recognition.txt,min-max,Random Partition,7145.790873535716,2729.662822112547,69
+segmentation.txt,min-max,Random Selection,622.452195108516,386.97506979729405,21
+segmentation.txt,min-max,Random Partition,1606.001080069135,386.97506979729405,8
+vehicle.txt,min-max,Random Selection,321.1588785661461,223.4941316548485,23
+vehicle.txt,min-max,Random Partition,497.05603307986837,223.4941316548485,21
+wine.txt,min-max,Random Selection,69.8437508661787,48.954035819626625,4
+wine.txt,min-max,Random Partition,79.25893726398799,48.954035819626625,6
+yeast.txt,min-max,Random Selection,82.31222719525488,58.29821604300647,22
+yeast.txt,min-max,Random Partition,144.44215600652353,58.28617698335906,19
+ecoli.txt,min-max,Random Selection,56.79216392900093,35.35787396247615,6
+ecoli.txt,min-max,Random Partition,68.45444138125583,35.35787396247615,4
+ecoli.txt,min-max,Random Selection,63.57675961539953,35.35787396247615,7
+ecoli.txt,min-max,Random Partition,66.49982242792007,35.35787396247615,6
